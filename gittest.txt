@@ -1,6 +1,5 @@
 Test for GIT
 Devops developer
-
 Add this for devops developer test
-
+Adding this for conflict
 Test line 5
